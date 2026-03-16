@@ -1,54 +1,21 @@
-# 📖 Devocional 90 Días en los Evangelios
-### Videira Mérida
+# Devocional 90 Días — Videira Mérida
 
-Un devocional interactivo de 90 días a través de los cuatro evangelios: **Marcos · Lucas · Mateo · Juan**
+Devocional interactivo de 90 días recorriendo los cuatro evangelios: Marcos, Lucas, Mateo y Juan.
 
----
+## 🌐 Ver en línea
+> Una vez publicado, estará disponible en: `https://TU-USUARIO.github.io/NOMBRE-DEL-REPO/`
 
-## 🌐 Ver el sitio en vivo
+## 📖 Contenido
+- **Días 1–23** — Evangelio de Marcos
+- **Días 24–46** — Evangelio de Lucas
+- **Días 47–68** — Evangelio de Mateo
+- **Días 69–90** — Evangelio de Juan
 
-Una vez publicado en GitHub Pages, el sitio estará disponible en:
+## 🏗️ Estructura
 ```
-https://TU-USUARIO.github.io/devocional-90-dias/
-```
-
----
-
-## 📋 Estructura del repositorio
-
-```
-devocional-90-dias/
-│
-├── index.html      ← El sitio completo (todo en un solo archivo)
-└── README.md       ← Este archivo
+/
+└── index.html   ← Sitio completo (todo en un solo archivo)
 ```
 
 ---
-
-## 🚀 Cómo publicar en GitHub Pages
-
-1. Sube este repositorio a GitHub
-2. Ve a **Settings → Pages**
-3. En **Source**, selecciona `main` branch y carpeta `/ (root)`
-4. Haz clic en **Save**
-5. En 1-2 minutos tu sitio estará en vivo ✅
-
----
-
-## ✨ Características
-
-- 90 días de devocional completo
-- 4 evangelios: Marcos (días 1-23), Lucas (días 24-46), Mateo (días 47-68), Juan (días 69-90)
-- Reflexión, enseñanza, aplicación y oración para cada día
-- Diseño moderno y responsivo
-- Sin dependencias externas de servidor — funciona como archivo estático
-- Logo e identidad de Videira Mérida integrados
-
----
-
-## 🏛️ Videira Mérida
-
-Iglesia Videira Mérida · Mérida, Yucatán, México
-
-> *"Tu palabra es una lámpara a mis pies, y una lumbrera a mi camino."*
-> — Salmo 119:105
+*Videira Mérida · Mérida, Yucatán, México*
